@@ -25,4 +25,4 @@ You can contact me from [my Telegram account](https://t.me/unigorn)
 ### Heroku Kurulum ⏳
 <h4>🔺 Herokuya Dağıt 🔻</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tuncay456/Musicall)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tuncay456/nicksizbot)
